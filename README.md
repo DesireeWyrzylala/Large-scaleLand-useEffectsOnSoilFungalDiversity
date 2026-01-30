@@ -48,7 +48,7 @@ The compiled database integrates published studies from multiple regions, land-u
 
 ### Distribution of Studies by Continent
 
-![Continents](img/pie_continent.png|)
+![Continents](img/pie_continent.png)
 
 ### Distribution of Studies by Country
 
