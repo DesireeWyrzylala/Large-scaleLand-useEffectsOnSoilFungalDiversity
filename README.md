@@ -10,9 +10,10 @@ This repository contains the data, code, and analysis workflow used in a student
 
 The project is based on a meta-analysis of published studies and integrates molecular, ecological, and environmental data to evaluate large-scale patterns in fungal α-diversity.
 
-The study was conducted as part of an academic degree program and aims to support transparent and reproducible research.
+The study was conducted as part of an academic degree program and aims to support transparent and reproducible research. The project was carried out as a group assignment with Daliah Dittmar and Fabienne Reinisch at Martin Luther University Halle-Wittenberg (Halle, Germany).
 
 ---
+
 ## Research Objectives
 
 The main objectives of this project were:
@@ -24,6 +25,7 @@ The main objectives of this project were:
 - To assess the robustness of commonly used diversity metrics in meta-analytical contexts
 
 ---
+
 ## Summary of Main Findings
 
 This meta-analysis indicates that soil fungal diversity is shaped more strongly by spatial and temporal context than by land-use type alone.
@@ -39,6 +41,7 @@ Key findings include:
 Overall, broad land-use labels alone do not reliably predict large-scale fungal α-diversity. Instead, where and when soils are sampled appears to be more influential than land-use intensity per se.
 
 ---
+
 ## Dataset Overview
 
 The compiled database integrates published studies from multiple regions, land-use systems, and sampling periods. The following figures summarize the structure of the dataset.
@@ -66,6 +69,7 @@ The compiled database integrates published studies from multiple regions, land-u
 These figures illustrate the geographic, ecological, and temporal coverage of the dataset and highlight potential imbalances in regional representation and land-use categories.
 
 ---
+
 ## Repository Contents
 
 This repository includes:
@@ -82,11 +86,12 @@ All analyses can be reproduced using the provided data and code.
 
 ## Repository Structure
 
-- `data/` : Compiled dataset and statistical results  
-- `img/` : Figures and visualizations  
-- `analysisDatabase.ipynb` : Main analysis notebook for data processing, statistics, and plotting  
+- `data/` : Compiled dataset and statistical results
+- `img/` : Figures and visualizations
+- `analysisDatabase.ipynb` : Main analysis notebook for data processing, statistics, and plotting
 
 ---
+
 ## Methodological Scope
 
 The database synthesizes studies reporting fungal diversity using indices such as:
@@ -100,6 +105,7 @@ Included studies differ in sampling design, molecular markers, sequencing platfo
 The analysis focuses on α-diversity patterns and does not directly assess β-diversity or functional guild composition.
 
 ---
+
 ## Reproducibility
 
 All figures, statistical analyses, and summary tables presented in this project can be reproduced by running the main Jupyter Notebook using the provided dataset.
@@ -107,6 +113,7 @@ All figures, statistical analyses, and summary tables presented in this project 
 Dependencies and workflow steps are documented within the notebook.
 
 ---
+
 ## License and Usage
 
 This repository is intended for academic and non-commercial use.
@@ -114,6 +121,7 @@ This repository is intended for academic and non-commercial use.
 Please cite the original studies and this project when using the data, code, or derived results.
 
 ---
+
 ## Acknowledgements
 
 This project was conducted as part of an academic degree program.
